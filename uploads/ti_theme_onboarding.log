@@ -1,0 +1,26 @@
+[21/Sep/2019:19:16:00] (ℹ️): WordPress Instance Info:
+[21/Sep/2019:19:16:00] (ℹ️): Home URL : http://ccorchestra.org
+[21/Sep/2019:19:16:00] (ℹ️): Site URL : http://ccorchestra.org
+[21/Sep/2019:19:16:00] (ℹ️): WordPress Version : 5.2.3
+[21/Sep/2019:19:16:00] (ℹ️): Onboarding Version : 1.7.5
+[21/Sep/2019:19:16:00] (ℹ️): Multisite : No
+[21/Sep/2019:19:16:00] (ℹ️): Server Info : Apache/2.4.41
+[21/Sep/2019:19:16:00] (ℹ️): PHP Version : 7.1.32
+[21/Sep/2019:19:16:00] (ℹ️): HTTPS : No
+[21/Sep/2019:19:16:00] (ℹ️): PHP Max Execution Time : 30
+[21/Sep/2019:19:16:00] (ℹ️): PHP Max Input Vars : 1000
+[21/Sep/2019:19:16:00] (ℹ️): Max Upload Size : 52428800
+[21/Sep/2019:19:16:00] (ℹ️): Plugins:
+[21/Sep/2019:19:16:00] (ℹ️): [PLUGIN] Akismet Anti-Spam : v4.1.2 (Automattic)
+[21/Sep/2019:19:16:00] (ℹ️): [PLUGIN] Better Search Replace : v1.3.3 (Delicious Brains)
+[21/Sep/2019:19:16:00] (ℹ️): [PLUGIN] Contact Form 7 : v5.1.4 (Takayuki Miyoshi)
+[21/Sep/2019:19:16:00] (ℹ️): [PLUGIN] Elementor : v2.7.2 (Elementor.com)
+[21/Sep/2019:19:16:00] (ℹ️): [PLUGIN] Essential Addons for Elementor : v3.3.1 (WPDeveloper)
+[21/Sep/2019:19:16:00] (ℹ️): [PLUGIN] MC4WP: Mailchimp for WordPress : v4.5.5 (ibericode)
+[21/Sep/2019:19:16:00] (ℹ️): [PLUGIN] Menu Icons : v0.11.5 (ThemeIsle)
+[21/Sep/2019:19:16:00] (ℹ️): [PLUGIN] Neve Pro Addon : v1.0.3 (ThemeIsle)
+[21/Sep/2019:19:16:00] (ℹ️): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.2.5 (ThemeIsle)
+[21/Sep/2019:19:16:00] (ℹ️): [PLUGIN] Redirection : v4.3.3 (John Godley)
+[21/Sep/2019:19:16:00] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.10 (Themeisle)
+[21/Sep/2019:19:16:00] (ℹ️): [PLUGIN] UpdraftPlus - Backup/Restore : v1.16.17 (UpdraftPlus.Com, DavidAnderson)
+[21/Sep/2019:19:16:00] (ℹ️): [PLUGIN] Yoast SEO : v12.1 (Team Yoast)

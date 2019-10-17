@@ -1,0 +1,25 @@
+0912.404 (1) Opened log file at time: Thu, 22 Aug 2019 03:52:59 +0000 on http://localhost:8888/cco
+0912.406 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.16 WP: 5.2.2 PHP: 7.3.7 (apache2handler, Darwin Amandas-MacBook-Pro.local 18.7.0 Darwin Kernel Version 18.7.0: Thu Jun 20 18:42:21 PDT 2019; root:xnu-4903.270.47~4/RELEASE_X86_64 x86_64) MySQL: 5.7.26 WPLANG: en_US Server: Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.7 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.10 Perl/v5.24.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 32M | 16.5M) multisite: N openssl: OpenSSL 1.0.2o  27 Mar 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0912.407 (1) Free space on disk containing Updraft's temporary directory: 53603.8 MB
+0912.410 (1) Backup run: resumption=1, nonce=02e50e47e0a8, file_nonce=02e50e47e0a8 begun at=1566445067 (912s ago), job type=backup, previous check-in=9.4s
+0912.412 (1) Scheduling a resumption (2) after 300 seconds (1566446279) in case this run gets aborted
+0912.422 (1) Checking if we have a zip executable available
+0912.423 (1) Zip engine: found/will use a binary zip: /usr/bin/zip
+0912.424 (1) Creation of backups of directories: already finished
+0912.425 (1) Saving backup status to database (elements: 8)
+0912.432 (1) Database dump (WordPress DB): Creation was completed already
+0912.436 (1) backup_2019-08-21-2337_Counterpoint_Community_Orchestra_02e50e47e0a8-plugins.zip: plugins: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem; now marking as uploaded (/Users/amandatome/hackeryou/wordpress/projects/cco/wp-content/updraft/backup_2019-08-21-2337_Counterpoint_Community_Orchestra_02e50e47e0a8-plugins.zip)
+0912.437 (1) Recording as successfully uploaded: backup_2019-08-21-2337_Counterpoint_Community_Orchestra_02e50e47e0a8-plugins.zip
+0912.439 (1) backup_2019-08-21-2337_Counterpoint_Community_Orchestra_02e50e47e0a8-themes.zip: themes: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem; now marking as uploaded (/Users/amandatome/hackeryou/wordpress/projects/cco/wp-content/updraft/backup_2019-08-21-2337_Counterpoint_Community_Orchestra_02e50e47e0a8-themes.zip)
+0912.440 (1) Recording as successfully uploaded: backup_2019-08-21-2337_Counterpoint_Community_Orchestra_02e50e47e0a8-themes.zip
+0912.443 (1) backup_2019-08-21-2337_Counterpoint_Community_Orchestra_02e50e47e0a8-uploads.zip: uploads: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem; now marking as uploaded (/Users/amandatome/hackeryou/wordpress/projects/cco/wp-content/updraft/backup_2019-08-21-2337_Counterpoint_Community_Orchestra_02e50e47e0a8-uploads.zip)
+0912.444 (1) Recording as successfully uploaded: backup_2019-08-21-2337_Counterpoint_Community_Orchestra_02e50e47e0a8-uploads.zip
+0912.446 (1) backup_2019-08-21-2337_Counterpoint_Community_Orchestra_02e50e47e0a8-others.zip: others: This file has already been successfully uploaded
+0912.447 (1) backup_2019-08-21-2337_Counterpoint_Community_Orchestra_02e50e47e0a8-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem; now marking as uploaded (/Users/amandatome/hackeryou/wordpress/projects/cco/wp-content/updraft/backup_2019-08-21-2337_Counterpoint_Community_Orchestra_02e50e47e0a8-db.gz)
+0912.448 (1) Recording as successfully uploaded: backup_2019-08-21-2337_Counterpoint_Community_Orchestra_02e50e47e0a8-db.gz
+0912.450 (1) Saving backup history. Total backup size: Unknown
+0912.453 (1) Resume backup (02e50e47e0a8, 1): finish run
+0912.454 (1) There were no more files that needed uploading
+0912.455 (1) There were no errors in the uploads, so the 'resume' event (2) is being unscheduled
+0912.459 (1) No email will be sent - this backup set was empty.
+0912.461 (1) The backup apparently succeeded and is now complete

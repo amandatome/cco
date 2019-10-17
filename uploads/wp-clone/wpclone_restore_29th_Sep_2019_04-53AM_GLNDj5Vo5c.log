@@ -1,0 +1,23 @@
+Sunday, 29-Sep-2019 04:53:15 - restore started
+Sunday, 29-Sep-2019 04:53:15 - wp version     : 5.2.2
+Sunday, 29-Sep-2019 04:53:15 - php version    : 7.3.8
+Sunday, 29-Sep-2019 04:53:15 - mysql version  : 5.7.26
+Sunday, 29-Sep-2019 04:53:15 - memory limit   : 1024M
+Sunday, 29-Sep-2019 04:53:15 - execution time : 600
+Sunday, 29-Sep-2019 04:53:15 - mysql timeout  : 
+Sunday, 29-Sep-2019 04:53:15 - socket timeout : 600
+Sunday, 29-Sep-2019 04:53:15 - file download started
+Sunday, 29-Sep-2019 04:53:39 - download finished, filesize - 79.61 MB
+Sunday, 29-Sep-2019 04:53:40 - extracting database using ziparchive
+Sunday, 29-Sep-2019 04:53:40 - database import started
+Sunday, 29-Sep-2019 04:53:40 - updating mysql query with current site's url - new query : "INSERT INTO wp_options VALUES("1", "siteurl", "http://localhost:8888/cco/", "yes")"
+Sunday, 29-Sep-2019 04:53:41 - mysql query failed. error : 1065 Query was empty - query : ""
+Sunday, 29-Sep-2019 04:53:41 - database import finished
+Sunday, 29-Sep-2019 04:53:41 - search and replace started
+Sunday, 29-Sep-2019 04:53:41 - there are 22 tables to scan
+Sunday, 29-Sep-2019 04:53:42 - search and replace finished
+Sunday, 29-Sep-2019 04:53:42 - extracting archive using ziparchive
+Sunday, 29-Sep-2019 04:53:46 - copying files..
+Sunday, 29-Sep-2019 04:53:48 - deleting temp directory..
+Sunday, 29-Sep-2019 04:53:52 - deleting downloaded zip file..
+Sunday, 29-Sep-2019 04:53:52 - restore finished
