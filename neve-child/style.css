@@ -1,0 +1,60 @@
+/*
+Theme Name:     Neve Child
+Theme URI:      https://themeisle.com/themes/neve/
+Template: neve
+Author:         ThemeIsle
+Author URI:     https://themeisle.com
+Description:    Neve is a super fast, easily customizable, multi-purpose theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. A fully AMP optimized and responsive theme, Neve will load in mere seconds and adapt perfectly on any viewing device. While it is lightweight and has a minimalist design, the theme is highly extendable, it has a highly SEO optimized code, resulting in top rankings in Google search results. Neve works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve is also WooCommerce ready, responsive, RTL & translation ready. Look no further. Neve is the perfect theme for you!
+Version:        1.0.0
+License:        GNU General Public License v2 or later
+License URI:    http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:    neve
+Tags: blog, custom-logo, e-commerce, rtl-language-support, post-formats, grid-layout, one-column, two-columns, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, accessibility-ready, wide-blocks, block-styles
+*/
+
+.nv-comment-content a,
+.nv-content-wrap a:not(.button) {
+  text-decoration: none !important;
+}
+
+/* Change style for grid posts */
+.elementor-159 .elementor-element.elementor-element-356b754 .obfx-grid-footer a {
+  border: solid 2px #733c5f;
+}
+
+.elementor-widget-container ul {
+  list-style-type: none;
+}
+
+/* Change buttons on mailchimp and contact form 7 */
+.wpcf7-submit:hover,
+.mc4wp-form-theme-dark input[type=submit]:hover, .mc4wp-form-theme-dark button:hover {
+  background-color: white !important;
+  color: #733c5f !important;
+  border: 2px #733c5f solid !important;
+}
+
+.mc4wp-form-theme-dark input[type=submit], .mc4wp-form-theme-dark button {
+  background-color: #733c5f !important;
+  color: white !important;
+  border: 2px #733c5f solid !important;
+}
+
+.btn:hover, .button.button-primary:hover, button:hover, input:hover[type=button], input:hover[type=submit] {
+  background-color: white!important;
+  color: #733c5f !important;
+  border: 2px #733c5f solid !important;
+  opacity: .9;
+}
+
+/* Hide recaptcha badge */
+.grecaptcha-badge {
+  opacity: 0;
+}
+
+@media only screen and (min-device-width: 360px) {
+  input[type="submit"] {
+    width: auto;
+  }
+}
+
